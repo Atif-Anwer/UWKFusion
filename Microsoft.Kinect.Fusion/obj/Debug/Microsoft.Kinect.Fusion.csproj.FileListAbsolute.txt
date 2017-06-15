@@ -1,0 +1,27 @@
+E:\Desktop\Microsoft.Kinect.Fusion\bin\Debug\Microsoft.Kinect.Fusion.dll
+E:\Desktop\Microsoft.Kinect.Fusion\bin\Debug\Microsoft.Kinect.Fusion.pdb
+E:\Desktop\Microsoft.Kinect.Fusion\bin\Debug\Microsoft.Kinect.dll
+E:\Desktop\Microsoft.Kinect.Fusion\bin\Debug\Microsoft.Kinect.xml
+E:\Desktop\Microsoft.Kinect.Fusion\obj\Debug\Microsoft.Kinect.Fusion.csprojResolveAssemblyReference.cache
+E:\Desktop\Microsoft.Kinect.Fusion\obj\Debug\Microsoft.Kinect.Fusion.Resources.resources
+E:\Desktop\Microsoft.Kinect.Fusion\obj\Debug\Microsoft.Kinect.Fusion.csproj.GenerateResource.Cache
+E:\Desktop\Microsoft.Kinect.Fusion\obj\Debug\Microsoft.Kinect.Fusion.dll
+E:\Desktop\Microsoft.Kinect.Fusion\obj\Debug\Microsoft.Kinect.Fusion.pdb
+E:\Documents\Visual Studio 2015\Projects\Microsoft.Kinect.Fusion\bin\Debug\Microsoft.Kinect.Fusion.dll
+E:\Documents\Visual Studio 2015\Projects\Microsoft.Kinect.Fusion\bin\Debug\Microsoft.Kinect.Fusion.pdb
+E:\Documents\Visual Studio 2015\Projects\Microsoft.Kinect.Fusion\bin\Debug\Microsoft.Kinect.dll
+E:\Documents\Visual Studio 2015\Projects\Microsoft.Kinect.Fusion\bin\Debug\Microsoft.Kinect.xml
+E:\Documents\Visual Studio 2015\Projects\Microsoft.Kinect.Fusion\obj\Debug\Microsoft.Kinect.Fusion.Resources.resources
+E:\Documents\Visual Studio 2015\Projects\Microsoft.Kinect.Fusion\obj\Debug\Microsoft.Kinect.Fusion.csproj.GenerateResource.Cache
+E:\Documents\Visual Studio 2015\Projects\Microsoft.Kinect.Fusion\obj\Debug\Microsoft.Kinect.Fusion.dll
+E:\Documents\Visual Studio 2015\Projects\Microsoft.Kinect.Fusion\obj\Debug\Microsoft.Kinect.Fusion.pdb
+E:\Documents\Visual Studio 2015\Projects\Microsoft.Kinect.Fusion\bin\Debug\Microsoft.Kinect.Fusion.dll.CodeAnalysisLog.xml
+E:\Documents\Visual Studio 2015\Projects\Microsoft.Kinect.Fusion\bin\Debug\Microsoft.Kinect.Fusion.dll.lastcodeanalysissucceeded
+E:\Documents\Dropbox\UTP\3DUWK\UWKFusion\UWKFusion\Microsoft.Kinect.Fusion\bin\Debug\Microsoft.Kinect.Fusion.dll
+E:\Documents\Dropbox\UTP\3DUWK\UWKFusion\UWKFusion\Microsoft.Kinect.Fusion\bin\Debug\Microsoft.Kinect.Fusion.pdb
+E:\Documents\Dropbox\UTP\3DUWK\UWKFusion\UWKFusion\Microsoft.Kinect.Fusion\bin\Debug\Microsoft.Kinect.dll
+E:\Documents\Dropbox\UTP\3DUWK\UWKFusion\UWKFusion\Microsoft.Kinect.Fusion\bin\Debug\Microsoft.Kinect.xml
+E:\Documents\Dropbox\UTP\3DUWK\UWKFusion\UWKFusion\Microsoft.Kinect.Fusion\obj\Debug\Microsoft.Kinect.Fusion.Resources.resources
+E:\Documents\Dropbox\UTP\3DUWK\UWKFusion\UWKFusion\Microsoft.Kinect.Fusion\obj\Debug\Microsoft.Kinect.Fusion.csproj.GenerateResource.Cache
+E:\Documents\Dropbox\UTP\3DUWK\UWKFusion\UWKFusion\Microsoft.Kinect.Fusion\obj\Debug\Microsoft.Kinect.Fusion.dll
+E:\Documents\Dropbox\UTP\3DUWK\UWKFusion\UWKFusion\Microsoft.Kinect.Fusion\obj\Debug\Microsoft.Kinect.Fusion.pdb

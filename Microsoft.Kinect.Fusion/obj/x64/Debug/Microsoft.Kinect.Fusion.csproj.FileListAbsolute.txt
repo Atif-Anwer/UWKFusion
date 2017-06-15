@@ -1,0 +1,8 @@
+E:\Documents\Dropbox\UTP\3DUWK\UWKFusion\UWKFusion\Microsoft.Kinect.Fusion\bin\x64\Debug\Microsoft.Kinect.Fusion.dll
+E:\Documents\Dropbox\UTP\3DUWK\UWKFusion\UWKFusion\Microsoft.Kinect.Fusion\bin\x64\Debug\Microsoft.Kinect.Fusion.pdb
+E:\Documents\Dropbox\UTP\3DUWK\UWKFusion\UWKFusion\Microsoft.Kinect.Fusion\bin\x64\Debug\Microsoft.Kinect.dll
+E:\Documents\Dropbox\UTP\3DUWK\UWKFusion\UWKFusion\Microsoft.Kinect.Fusion\bin\x64\Debug\Microsoft.Kinect.xml
+E:\Documents\Dropbox\UTP\3DUWK\UWKFusion\UWKFusion\Microsoft.Kinect.Fusion\obj\x64\Debug\Microsoft.Kinect.Fusion.Resources.resources
+E:\Documents\Dropbox\UTP\3DUWK\UWKFusion\UWKFusion\Microsoft.Kinect.Fusion\obj\x64\Debug\Microsoft.Kinect.Fusion.csproj.GenerateResource.Cache
+E:\Documents\Dropbox\UTP\3DUWK\UWKFusion\UWKFusion\Microsoft.Kinect.Fusion\obj\x64\Debug\Microsoft.Kinect.Fusion.dll
+E:\Documents\Dropbox\UTP\3DUWK\UWKFusion\UWKFusion\Microsoft.Kinect.Fusion\obj\x64\Debug\Microsoft.Kinect.Fusion.pdb

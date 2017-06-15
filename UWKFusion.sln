@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UWKFusion", "UWKFusion\UWKFusion.csproj", "{9C335704-6299-4EB2-B307-C9FF85032685}"
+	ProjectSection(ProjectDependencies) = postProject
+		{58851747-F078-44E1-94B0-99EF065B3319} = {58851747-F078-44E1-94B0-99EF065B3319}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microsoft.Kinect.Fusion", "Microsoft.Kinect.Fusion\Microsoft.Kinect.Fusion.csproj", "{58851747-F078-44E1-94B0-99EF065B3319}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C335704-6299-4EB2-B307-C9FF85032685}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C335704-6299-4EB2-B307-C9FF85032685}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C335704-6299-4EB2-B307-C9FF85032685}.Debug|x64.ActiveCfg = Debug|x64
+		{9C335704-6299-4EB2-B307-C9FF85032685}.Debug|x64.Build.0 = Debug|x64
+		{9C335704-6299-4EB2-B307-C9FF85032685}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C335704-6299-4EB2-B307-C9FF85032685}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C335704-6299-4EB2-B307-C9FF85032685}.Release|x64.ActiveCfg = Release|x64
+		{9C335704-6299-4EB2-B307-C9FF85032685}.Release|x64.Build.0 = Release|x64
+		{58851747-F078-44E1-94B0-99EF065B3319}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58851747-F078-44E1-94B0-99EF065B3319}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58851747-F078-44E1-94B0-99EF065B3319}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{58851747-F078-44E1-94B0-99EF065B3319}.Debug|x64.Build.0 = Debug|Any CPU
+		{58851747-F078-44E1-94B0-99EF065B3319}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58851747-F078-44E1-94B0-99EF065B3319}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58851747-F078-44E1-94B0-99EF065B3319}.Release|x64.ActiveCfg = Release|Any CPU
+		{58851747-F078-44E1-94B0-99EF065B3319}.Release|x64.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
