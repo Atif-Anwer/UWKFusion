@@ -1,0 +1,1 @@
+Kinect Fusion dll (Kinect20.Fusion.dll) needs to be manually copied here, if not visible, for using the code. 
