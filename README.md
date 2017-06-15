@@ -1,37 +1,68 @@
-## Welcome to GitHub Pages
+# UNDERWATER 3D SCENE RECONSTRUCTION USING KINECT V2 #
 
-You can use the [editor on GitHub](https://github.com/Atif-Anwer/3DUWK/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### What is this repository for? ###
+The repository is the front end GUI and developed filters for 3D scene reconstruction using Kinect Fusion for Kinect v2 on depth data acquired underwater. The application has been developed in C# with a front end in XAML.
+The designed filters implemented in the GUI are as follows:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1. Kinect camera calibration (RGB and NIR) for underwater application
+2. Median filtering on depth data
+3. Time of flight correction algorithm
+4. Refraction correction algorithm
 
-### Markdown
+Details of the working of the above algorithms can be found from our publication:
+[UNDERWATER 3D SCENE RECONSTRUCTION USING KINECT V2 TIME OF FLIGHT CAMERA](https://atifanwer.xyz) 
+(under review - link will be updated once accepted)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Dataset of Kinect Data taken underwater ###
 
-```markdown
-Syntax highlighted code block
+A complete dataset has been acquired consisting of various objects scanned underwater. The data from Kinect’s RGB and IR cameras was captured alongside the generated point cloud by KinectToF and saved in Microsoft’s eXtended Event File (XEF) file format that can be used with Kinect Studio application. The dataset s publicly available under GNU GPL 3.0 license and can be downloaded from the link below:
 
-# Header 1
-## Header 2
-### Header 3
+* [Kinect Underwater Dataset](http://bit.ly/3DUWK)
 
-- Bulleted
-- List
+### Hardware and Software requirements? ###
 
-1. Numbered
-2. List
+The following software’s are required for use
+* [Kinect for Windows SDK 2.0](https://www.microsoft.com/en-us/download/details.aspx?id=44561)
+* Visual Studio 2015 (code has not been tested with VS 2017 as yet, but it should work)
+* [Dot Net framework 4.5 or greater](https://www.microsoft.com/en-in/download/details.aspx?id=30653)
+* Windows 8.1 or greater (Developed on Windows 10, but should work for Windows 8 aswell)
 
-**Bold** and _Italic_ and `Code` text
+Following are the recommended hardware requirements for testing/using the application:
+* Core i7 (Ivy Bridge or greater)
+* 8 GB Memory (16 GB preferrable if using the dataset)
+* USB 3.0 controller dedicated to the Kinect for Windows v2 sensor*
+* DX11 capable graphics adapter (Nvidia or AMD)
+* A Microsoft Kinect v2 sensor (Xbox One or Kinect v2 for windows)
+* Microsoft Kinect for Windows Adapter (Xbox One)
+* SSD harddrive is preferred if using the dataset, for optimum performance.
 
-[Link](url) and ![Image](src)
-```
+Note: This application is not meant to run with Kinect for Xbox 360 or Kinect V1
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Using the Dataset with the application ###
 
-### Jekyll Themes
+The [Kinect Underwater Dataset](http://bit.ly/3DUWK) is the raw data captured with Kinect Studio 2.0 in the proprietary XEF file format. Kinect Studio is bundled in the SDK 2.0 and can be used to open the dataset files. Once opened, Kinect Studio emulates the Kinect hardware and plays back the recorded files as if an actual Kinect Device is attached to the USB port. 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Atif-Anwer/3DUWK/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+For improving performance, please note the following (quoted from [MSDN](https://msdn.microsoft.com/en-us/library/hh855390.aspx) ):
+> Recording and playing back Kinect data in Kinect Studio requires sufficient computer resources. If throughput of the data is not high enough, you can experience dropped data frames. To get good performance when recording data, you need space on your hard drive, a reasonably fast CPU, and extra RAM. Playback requires a file for playback, and KinectStudio must be connected to a running Kinect application. This is because you play back recorded data in the Kinect application as if the recorded data were coming from the actual sensor.
+>The following tips will help you get the best performance:
+>* Make sure that your computer has sufficient RAM to run your operating system.
+>* Use a computer with a fast hard disk drive (HDD). The HDD should have plenty of empty space available and should be reasonably unfragmented.
+>* Run as few other applications as possible.
+>* Close any Kinect Studio viewing windows that you aren't using.
+>* If you use a network location to save temporary files, you may experience dropped frames. To avoid this problem, change the temporary file location (under Tools > Options) to a local path.'
 
-### Support or Contact
+### Citation ###
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+The code and dataset are available for testing or experimenting. However, we would appreciate if you can cite our paper while publishing any work online, in any conference of journal. 
+For citation, please use the following bibtext entry:
+
+'Bibtext code for paper to be added after acceptance'
+
+### Contact ###
+
+For any query, please feel free to contact the following authors:
+
+* [Atif Anwer](www.atifanwer.xyz)
+* [Syed Saad Azhar Ali](https://scholar.google.com/citations?user=x3GCOQMAAAAJ)
+* [Amjad Khan](https://scholar.google.com/citations?user=WEVTyZsAAAAJ)
+* [Fabrice Mériaudeau](https://scholar.google.com/citations?user=tNttgvEAAAAJ)
