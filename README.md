@@ -62,7 +62,7 @@ For citation, please use the following bibtext entry:
 
 For any query, please feel free to contact the following authors:
 
-* [Atif Anwer](www.atifanwer.xyz)
+* [Atif Anwer](https://scholar.google.com/citations?user=qsP3e2kAAAAJ)
 * [Syed Saad Azhar Ali](https://scholar.google.com/citations?user=x3GCOQMAAAAJ)
 * [Amjad Khan](https://scholar.google.com/citations?user=WEVTyZsAAAAJ)
 * [Fabrice Mériaudeau](https://scholar.google.com/citations?user=tNttgvEAAAAJ)
