@@ -38,13 +38,13 @@ Following are the recommended hardware requirements for testing/using the applic
 
 Note: This application is not meant to run with Kinect for Xbox 360 or Kinect V1
 
-### Some details about the dataset ###
+### Some sample RGB images from the dataset ###
 | Dataset | RGB Image | Description |
 | --- | --- | --- |
 | 3D Models of Objects | ![STL Models](http://i.imgur.com/AvjYyYDt.png) | 3D printed STL files, also used as ground truth for alignment error map calculation |
 | Swimming Pool Wall | ![Swimming Pool wall](http://i.imgur.com/axdiiFJt.png) | A flat and tiled swimming pool wall. Provides good data for RGB and IR camera calibration underwater |
-| Swimming Pool Objects | [Objects](http://i.imgur.com/ubRYh33t.png) | Objects were placed in water held down by weights. Data captured moves the Kinect around the objects  |
-| Offshore Lab - Low Light | [Low Light](http://i.imgur.com/viclDRzt.png) | Images of a few objects and a checker board were taken in the offshore lab, in low light |
+| Swimming Pool Objects | ![Objects](http://i.imgur.com/ubRYh33t.png) | Objects were placed in water held down by weights. Data captured moves the Kinect around the objects  |
+| Offshore Lab - Low Light | ![Low Light](http://i.imgur.com/viclDRzt.png) | Images of a few objects and a checker board were taken in the offshore lab, in low light |
 
 There are more XEF files with several scanes of objects underwater. For more details, please download the [Kinect Underwater Dataset](http://bit.ly/3DUWK)
 
