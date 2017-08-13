@@ -45,7 +45,7 @@ Note: This application is not meant to run with Kinect for Xbox 360 or Kinect V1
 
 ### Kinect Casing Assembly ###
 
-[Casing Assembly Design](http://i.imgur.com/9Pe7kchm.png)
+![Casing Assembly Design](http://i.imgur.com/9Pe7kchm.png)
 
 ### Some sample RGB images from the dataset ###
 | Dataset | RGB Image | Description |
