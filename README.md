@@ -10,8 +10,7 @@ The designed filters implemented in the GUI are as follows:
 4. Refraction correction algorithm
 
 Details of the working of the above algorithms can be found from our publication:
-[UNDERWATER 3D SCENE RECONSTRUCTION USING KINECT V2 TIME OF FLIGHT CAMERA](https://atifanwer.xyz) 
-(under review - link will be updated once accepted)
+[UNDERWATER 3D SCENE RECONSTRUCTION USING KINECT V2 TIME OF FLIGHT CAMERA](https://doi.org/10.1109/ACCESS.2017.2733003)
 
 ### Video about the Research  ###
 
