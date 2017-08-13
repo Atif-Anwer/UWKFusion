@@ -13,6 +13,11 @@ Details of the working of the above algorithms can be found from our publication
 [UNDERWATER 3D SCENE RECONSTRUCTION USING KINECT V2 TIME OF FLIGHT CAMERA](https://atifanwer.xyz) 
 (under review - link will be updated once accepted)
 
+### Video about the Research  ###
+
+[![Underwater 3D Scene Reconstruction Using Kinect v2, with Refraction and ToF Correction](http://i.imgur.com/CdMpSJEm.png)](https://www.youtube.com/watch?v=E5GNbEN16uQ "Underwater 3D Scene Reconstruction Using Kinect v2, with Refraction and ToF Correction")
+
+
 ### Dataset of Kinect Data taken underwater ###
 
 A complete dataset has been acquired consisting of various objects scanned underwater. The data from Kinect’s RGB and IR cameras was captured alongside the generated point cloud by KinectToF and saved in Microsoft’s eXtended Event File (XEF) file format that can be used with Kinect Studio application. The dataset s publicly available under GNU GPL 3.0 license and can be downloaded from the link below:
@@ -38,6 +43,10 @@ Following are the recommended hardware requirements for testing/using the applic
 
 Note: This application is not meant to run with Kinect for Xbox 360 or Kinect V1
 
+### Kinect Casing Assembly ###
+
+[Casing Assembly Design](http://i.imgur.com/9Pe7kchm.png)
+
 ### Some sample RGB images from the dataset ###
 | Dataset | RGB Image | Description |
 | --- | --- | --- |
@@ -61,18 +70,32 @@ For improving performance, please note the following (quoted from [MSDN](https:/
 >* Close any Kinect Studio viewing windows that you aren't using.
 >* If you use a network location to save temporary files, you may experience dropped frames. To avoid this problem, change the temporary file location (under Tools > Options) to a local path.'
 
+### IEEE Transaction ###
+
+The Research article can be downloaded from: [IEEE ACCESS](https://doi.org/10.1109/ACCESS.2017.2733003)
+
 ### Citation ###
 
 The code and dataset are available for testing or experimenting. However, we would appreciate if you can cite our paper while publishing any work online, in any conference of journal. 
 For citation, please use the following bibtext entry:
-
-'Bibtext code for paper to be added after acceptance'
+```
+@article{Anwer2017,
+  doi = {10.1109/access.2017.2733003},
+  url = {https://doi.org/10.1109/access.2017.2733003},
+  year  = {2017},
+  publisher = {Institute of Electrical and Electronics Engineers ({IEEE})},
+  pages = {1--1},
+  author = {Atif Anwer and Syed Saad Azhar Ali and Amjad Khan and Fabrice Meriaudeau},
+  title = {Underwater 3D Scene Reconstruction Using Kinect v2 Based on Physical Models for Refraction and Time of Flight Correction},
+  journal = {{IEEE} Access}
+}
+```
 
 ### Contact ###
 
 For any query, please feel free to contact the following authors:
 
-* Atif Anwer[Google Scholar](https://scholar.google.com/citations?user=qsP3e2kAAAAJ)| [Website](www.atifanwer.xyz)
+* Atif Anwer[Google Scholar](https://scholar.google.com/citations?user=qsP3e2kAAAAJ)| [Website](https://www.atifanwer.xyz)
 * [Syed Saad Azhar Ali](https://scholar.google.com/citations?user=x3GCOQMAAAAJ)
 * [Amjad Khan](https://scholar.google.com/citations?user=WEVTyZsAAAAJ)
 * [Fabrice Mériaudeau](https://scholar.google.com/citations?user=tNttgvEAAAAJ)
