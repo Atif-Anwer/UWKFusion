@@ -54,7 +54,7 @@ Note: This application is not meant to run with Kinect for Xbox 360 or Kinect V1
 | Swimming Pool Objects | ![Objects](http://i.imgur.com/ubRYh33t.png) | Objects were placed in water held down by weights. Data captured moves the Kinect around the objects  |
 | Offshore Lab - Low Light | ![Low Light](http://i.imgur.com/viclDRzt.png) | Images of a few objects and a checker board were taken in the offshore lab, in low light |
 
-There are more XEF files with several scanes of objects underwater. For more details, please download the [Kinect Underwater Dataset](http://bit.ly/3DUWK)
+There are more XEF files with several scanes of objects underwater. For more details, please download the [Kinect Underwater Dataset](https://1drv.ms/f/s!AphLSHrbZ957xh_9K93h8ABPQXUb)
 
 ### Using the Dataset with the application ###
 
