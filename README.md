@@ -21,7 +21,7 @@ Details of the working of the above algorithms can be found from our publication
 
 A complete dataset has been acquired consisting of various objects scanned underwater. The data from Kinect’s RGB and IR cameras was captured alongside the generated point cloud by KinectToF and saved in Microsoft’s eXtended Event File (XEF) file format that can be used with Kinect Studio application. The dataset s publicly available under GNU GPL 3.0 license and can be downloaded from the link below:
 
-* [Kinect Underwater Dataset](http://bit.ly/3DUWK)
+* [Kinect Underwater Dataset](https://1drv.ms/f/s!AphLSHrbZ957xh_9K93h8ABPQXUb)
 
 ### Hardware and Software requirements? ###
 
@@ -58,7 +58,7 @@ There are more XEF files with several scanes of objects underwater. For more det
 
 ### Using the Dataset with the application ###
 
-The [Kinect Underwater Dataset](http://bit.ly/3DUWK) is the raw data captured with Kinect Studio 2.0 in the proprietary XEF file format. Kinect Studio is bundled in the SDK 2.0 and can be used to open the dataset files. Once opened, Kinect Studio emulates the Kinect hardware and plays back the recorded files as if an actual Kinect Device is attached to the USB port. 
+The [Kinect Underwater Dataset](https://1drv.ms/f/s!AphLSHrbZ957xh_9K93h8ABPQXUb) is the raw data captured with Kinect Studio 2.0 in the proprietary XEF file format. Kinect Studio is bundled in the SDK 2.0 and can be used to open the dataset files. Once opened, Kinect Studio emulates the Kinect hardware and plays back the recorded files as if an actual Kinect Device is attached to the USB port. 
 
 For improving performance, please note the following (quoted from [MSDN](https://msdn.microsoft.com/en-us/library/hh855390.aspx) ):
 > Recording and playing back Kinect data in Kinect Studio requires sufficient computer resources. If throughput of the data is not high enough, you can experience dropped data frames. To get good performance when recording data, you need space on your hard drive, a reasonably fast CPU, and extra RAM. Playback requires a file for playback, and KinectStudio must be connected to a running Kinect application. This is because you play back recorded data in the Kinect application as if the recorded data were coming from the actual sensor.
